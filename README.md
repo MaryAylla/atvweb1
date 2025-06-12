@@ -1,0 +1,1 @@
+Esta coleção de arquivos traz exemplos simples e diretos do uso da função alert() no JavaScript. O foco está no aprendizado inicial da linguagem, mostrando como interagir com o usuário através de mensagens na tela. Esses exercícios ajudaram a compreender a lógica básica da linguagem e sua sintaxe.
